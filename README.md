@@ -31,7 +31,7 @@ De concrete, technische invulling van het concept is binnen VIL gerealiseerd met
 Om het VIL te bedienen en de klantreis te ervaren is het volgende stappenplan van toepassing:
 
 1. Download de SSI wallet app uit de betreffende appstore en volg de instructies op
-2. Ga naar het uitreikportaal en laad gegevens in de wallet
-3. Ga naar het regelingenportaal en check je recht op regelingen, indien het recht er is ontvang je een Voucher in je wallet
-4. Ga naar het inwisselportaal en wissel de Voucher in door het starten van een Aanvraag
-5. Zodra de consulent de aanvraag heeft beoordeeld in het consulentenportaal ontvang je een besluit in je wallet en start de uitvoering van de regeling
+2. Ga naar het [uitreikportaal](uitreikportaal.nl) en laad gegevens in de wallet
+3. Ga naar het [regelingenportaal](regelingenportaal.nl) en check je recht op regelingen, indien het recht er is ontvang je een Voucher in je wallet
+4. Ga naar het [inwisselportaal](inwisselportaal.nl) en wissel de Voucher in door het starten van een Aanvraag
+5. Zodra de consulent de aanvraag heeft beoordeeld in het [consulentenportaal](consulentenportaal.nl) ontvang je een besluit in je wallet en start de uitvoering van de regeling
