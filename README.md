@@ -4,7 +4,7 @@
 
 # Wallet
 
-Voor het gebruik van het Virtueel Inkomsten Loket (VIL) is een zogenaamde SSI *wallet* nodig. SSI staat voor Self Sovereign Identity en bevat [standaarden](https://www.w3.org/TR/vc-data-model/ "W3C DID en Verifiable Credentials") voor het uitwisselen van gegevens met behoud van privacy. De wallet is een App voor op je telefoon en kan je downloaden vanuit de Appstore (voor [iPhone](https://apps.apple.com/sa/app/sovrhd/id1571101544 "SSI wallet")) of de Google Play Store (voor [Android phone](https://play.google.com/store/apps/details?id=com.ovrhd.sovrhd "sovrhd app"))
+Voor het gebruik van het Virtueel Inkomsten Loket (VIL) is een zogenaamde *SSI* *wallet* nodig. SSI staat voor Self Sovereign Identity en bevat [standaarden](https://www.w3.org/TR/vc-data-model/ "W3C DID en Verifiable Credentials") voor het uitwisselen van gegevens met behoud van privacy. De wallet is een App voor op je telefoon en kan je downloaden vanuit de Appstore (voor [iPhone](https://apps.apple.com/sa/app/sovrhd/id1571101544 "SSI wallet")) of de Google Play Store (voor [Android phone](https://play.google.com/store/apps/details?id=com.ovrhd.sovrhd "sovrhd app"))
 
 # Ontwerp
 
