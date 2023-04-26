@@ -19,4 +19,4 @@ Deze gegevens zijn in principe voldoende om tegen de inkomensafhankelijke regeli
 ## Hoe kom ik daar?
 
 1. Download de wallet uit de betreffende appstore
-2. Ga naar [uitreikportaal.nl]() en volg de instructies op
+2. Ga naar [https://uitreikportaal.nl]() en volg de instructies op

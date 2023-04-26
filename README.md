@@ -12,7 +12,7 @@ Het VIL bevat inkomensafhankelijke overheidsregelingen waarbij je zelf kan beoor
 
 1. [Wallet](wallet.md)
 2. [Uitreikportaal](ontwerp/uitreikportaal.md)
-3. Regelingenportaal
+3. [Regelingenportaal](ontwerp/regelingenportaal.md)
 4. Inwisselportaal
 5. Consulentenportaal
 
