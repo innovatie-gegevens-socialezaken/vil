@@ -23,4 +23,4 @@ Als men in aanmerking komt voor een regeling zal het portaal een Voucher sturen 
 ## Hoe kom ik daar?		
 
 1. Download de wallet uit de betreffende appstore
-2. Ga naar [https://regelingenportaal.nl]() en volg de instructies op
+2. Ga naar [regelingenportaal.nl](https://regelingenportaal.nl) en volg de instructies op
