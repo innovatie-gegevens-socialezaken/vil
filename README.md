@@ -10,7 +10,7 @@ Voor het gebruik van het Virtueel Inkomsten Loket (VIL) is een zogenaamde *SSI* 
 
 Het VIL bevat inkomensafhankelijke overheidsregelingen waarbij je zelf kan beoordelen of je voor een regeling in aanmerking komt, door het verzamelen van betrouwbare gegevens in je wallet en die vervolgens tegen de voorwaarden van de regeling aan te houden. Het VIL bestaat concreet uit de wallet en 4 digitale portalen:
 
-1. [Wallet](https://innovatie-gegevens-socialezaken.github.io/igs/wallet.htm)
+1. [Wallet](https://innovatie-gegevens-socialezaken.github.io/igs/wallet.html)
 2. [Uitreikportaal](ontwerp/uitreikportaal.md)
 3. [Regelingenportaal](ontwerp/regelingenportaal.md)
 4. Inwisselportaal
