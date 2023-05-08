@@ -14,7 +14,7 @@ Het VIL bevat inkomensafhankelijke overheidsregelingen waarbij je zelf kan beoor
 2. [Uitreikportaal](ontwerp/uitreikportaal.md)
 3. [Regelingenportaal](ontwerp/regelingenportaal.md)
 4. Inwisselportaal
-5. Consulentenportaal
+5. Besluitportaal
 
 ![Droomloket](docs/assets/1682425174085.png)
 
@@ -24,7 +24,7 @@ De klantreis is zodanig dat de portalen in deze volgorde worden doorlopen om uit
 
 Het ontwerp is gebaseerd op het concept van burgerregie, dat programma IGS van SZW sinds 2019 propageert en ook in diverse overheidsprogramma's wordt gehanteerd zoals [Regie op Gegevens](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/regie-op-gegevens/) en [EDI-wallet](https://edi.pleio.nl/) (BZK), in relatie tot de Europese programma's [eID](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_nl) en [EBSI](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Home).
 
-De concrete, technische invulling van het concept is binnen VIL gerealiseerd met een SSI Infrastructuur, waarbij de wallet het uitwisselingsmechanisme is in de vorm van een app op je telefoon. Daarnaast zijn er functies nodig om gegevens van en naar de wallet te laten stromen, om de uitwisseling concreet tot stand te brengen. Al deze functies samen, de governance en de rollen die daarbij horen zijn onderdeel van de [SSI Infrastructuur](ssi.md) en zijn ook nog in ontwikkeling. De complete stelselarchitectuur inclusief governance en rollen is [hier](https://stelsel-architectuur.twi-programma.nl/ "Stelselarchitectuur") te vinden.
+De concrete, technische invulling van het concept is binnen VIL gerealiseerd met een SSI Infrastructuur, waarbij de wallet het uitwisselingsmechanisme is in de vorm van een app op je telefoon. Daarnaast zijn er functies nodig om gegevens van en naar de wallet te laten stromen, om de uitwisseling concreet tot stand te brengen. Al deze functies samen, de governance en de rollen die daarbij horen zijn onderdeel van de [SSI Infrastructuur](https://innovatie-gegevens-socialezaken.github.io/igs/ssi.html) en zijn ook nog in ontwikkeling. De complete stelselarchitectuur inclusief governance en rollen is [hier](https://stelsel-architectuur.twi-programma.nl/ "Stelselarchitectuur") te vinden.
 
 # Handleiding
 
@@ -34,4 +34,4 @@ Om het VIL te bedienen en de klantreis te ervaren is het volgende stappenplan va
 2. Ga naar het [uitreikportaal](https://uitreikportaal.nl) en laad gegevens in de wallet
 3. Ga naar het [regelingenportaal](https://regelingenportaal.nl) en check je recht op regelingen, indien het recht er is ontvang je een Voucher in je wallet
 4. Ga naar het [inwisselportaal](https://inwisselportaal.nl) en wissel de Voucher in door het starten van een Aanvraag
-5. Zodra de consulent de aanvraag heeft beoordeeld in het [consulentenportaal](https://consulentenportaal.nl) ontvang je een besluit in je wallet en start de uitvoering van de regeling
+5. Zodra de consulent de aanvraag heeft beoordeeld in het [besluitportaal](https://besluitportaal.nl) ontvang je een besluit in je wallet en start de uitvoering van de regeling
