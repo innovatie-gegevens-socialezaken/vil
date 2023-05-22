@@ -35,3 +35,7 @@ en je krijgt een VC van een *secret*, het website inlog bewijs, die je kan gebru
 
 3. Volg de knoppen op de website om meer VCs in je wallet te laden
 4. Voor sommige VCs (iWize) zal je een eerder verkregen VC (bankrekening) moeten delen om de juiste persoonsgegevens te kunnen laden. Dit is onderdeel van de SSI filosofie en de beveiliging
+5. Als alternatief voor het laden van banktransacties ()PSD2 via Inverse) kan een eigen download van transacties worden gedaan via de eigen bank app via een MT940 structuur of een CSV bestand, om die vervolgens te uploaden via de knop `MT-940`
+   ![1684781308038](image/uitreikportaal/1684781308038.png)
+6. Het laden van banktransacties geeft de mogelijkheid om inkomsten en uitgaven te categoriseren volgens [NIBUD richtlijnen](https://www.nibud.nl/onderwerpen/rondkomen/plannen-en-begroten/#Maand). Dat is best lastig en kan met enige hulp van een vertrouwde persoon worden gedaan. Dit is nodig omdat voor sommige regelingen heel specifiek moet worden gecheckt welke type inkomesten en uitgaven er zijn.
+7. Als je alle knoppen hebt doorlopen en de VCs in je wallet hebt verzameld kan je kijken of je in aanmerking komt voor bepaalde regelingen in het [regelingenportaal](regelingenportaal.md)
