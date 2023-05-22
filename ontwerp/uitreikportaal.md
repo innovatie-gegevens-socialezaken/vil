@@ -19,4 +19,19 @@ Deze gegevens zijn in principe voldoende om tegen de inkomensafhankelijke regeli
 ## Hoe kom ik daar?
 
 1. Download de wallet uit de betreffende appstore
-2. Ga naar [uitreikportaal.nl](https://uitreikportaal.nl) en volg de instructies op
+2. Ga naar [uitreikportaal.nl](https://uitreikportaal.nl) en ga naar `Registreren`
+
+   Hierna verschijnt een QR-code om te scannen met de wallet
+
+![1684780345997](image/uitreikportaal/1684780345997.png)
+
+vervolgens krijg je toegang tot een scherm vergelijkbaar met onderstaande plaat
+
+![1684780527360](image/uitreikportaal/1684780527360.png)
+
+en je krijgt een VC van een *secret*, het website inlog bewijs, die je kan gebruiken om weer in te loggen, want dan vraagt de website uitreikportaal.nl je om dit te delen zoals hier
+
+![1684780746345](image/uitreikportaal/1684780746345.png)
+
+3. Volg de knoppen op de website om meer VCs in je wallet te laden
+4. Voor sommige VCs (iWize) zal je een eerder verkregen VC (bankrekening) moeten delen om de juiste persoonsgegevens te kunnen laden. Dit is onderdeel van de SSI filosofie en de beveiliging
