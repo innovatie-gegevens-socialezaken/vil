@@ -8,7 +8,7 @@ Het regelingenportaal zorgt ervoor dat een gebruiker zijn gegevens vanuit de wal
 
 Op dit moment kunnen voor VIL de volgende inkomensafhankelijke regelingen via het regelingenportaal worden gecheckt:
 
-* individuele inkomenstoeslag (IIT)
+* [individuele inkomenstoeslag](iit.md) (IIT)
 * [draagkrachtberekening](draagkracht.md) (bijzondere bijstand)
 
 Het regelingenportaal is door de ontkoppeling eenvoudig uit te breiden naar meerdere lokale en landelijke regelingen.
