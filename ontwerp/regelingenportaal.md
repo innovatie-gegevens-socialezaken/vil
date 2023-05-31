@@ -10,6 +10,7 @@ Op dit moment kunnen voor VIL de volgende inkomensafhankelijke regelingen via he
 
 * [individuele inkomenstoeslag](iit.md) (IIT)
 * [draagkrachtberekening](draagkracht.md) (bijzondere bijstand)
+* [huurtoeslag](huurtoeslag.md) (element van de draagkrachtberekening)
 
 Het regelingenportaal is door de ontkoppeling eenvoudig uit te breiden naar meerdere lokale en landelijke regelingen.
 
